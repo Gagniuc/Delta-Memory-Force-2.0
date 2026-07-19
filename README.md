@@ -10,6 +10,15 @@ Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor,
 
 ![Screenshot](https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_WinME_open.jpg)
 
+
+![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_open.gif)
+
+
+
+
+![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_closed_(II).gif)
+
+
 Delta Memory Force elibera memoria RAM prin alocarea temporară a unei cantități mari de memorie. Această operație determina Windows să mute în memoria virtuală, pe disc, paginile inactive ale proceselor și să reducă memoria fizică ocupată. După încheierea operației, memoria temporar alocată de program era eliberată, rezultând o creștere imediată a cantității de RAM disponibile.
 
 Programul nu ștergea date și nu închidea aplicațiile, ci forța sistemul de operare să reorganizeze memoria, păstrând în RAM în special datele active și transferând pe disc informațiile utilizate mai rar. Acest principiu era cunoscut la începutul anilor 2000 sub denumirea de RAM optimization sau memory forcing și explică numele aplicației, Delta Memory Force.
@@ -36,6 +45,8 @@ Programul permite, de asemenea:
 - terminarea proceselor selectate;
 - actualizarea listei de procese;
 - accesarea unor opțiuni suplimentare de administrare a sistemului.
+
+![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_sys.jpg)
 
 ## Principiul de eliberare a memoriei
 
@@ -75,6 +86,11 @@ Compatibilitatea probabilă include:
 - Windows NT;
 - Windows 2000;
 - posibil Windows XP.
+- Windowns 11
+
+![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_Win11_open.jpg)
+
+![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_cd_install.jpg)
 
 Compatibilitatea exactă urmează să fie verificată prin analizarea executabilului original și prin testare în mașini virtuale.
 
