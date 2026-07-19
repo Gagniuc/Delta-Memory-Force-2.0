@@ -8,15 +8,14 @@ Programul afișează în timp real memoria RAM liberă și totală, utilizarea p
 
 Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor, terminarea acestora și accesarea unor funcții avansate de administrare. Interfața grafică, specifică începutului anilor 2000, folosește un stil tehnic distinct, cu fundal negru, grafice verzi și indicatori colorați actualizați în timp real.
 
-![Screenshot](https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_WinME_open.jpg)
+<p align="center">
+  <img src="https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_WinME_open.jpg" alt="Delta Memory Force V2.0 on Windows Me/2000">
+</p>
 
 
-![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_open.gif)
-
-
-
-
-![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_closed_(II).gif)
+<p align="center">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_open_(II).gif" alt="Delta Memory Force V2.0 on Windows Me/2000">
+</p>
 
 
 Delta Memory Force elibera memoria RAM prin alocarea temporară a unei cantități mari de memorie. Această operație determina Windows să mute în memoria virtuală, pe disc, paginile inactive ale proceselor și să reducă memoria fizică ocupată. După încheierea operației, memoria temporar alocată de program era eliberată, rezultând o creștere imediată a cantității de RAM disponibile.
@@ -88,9 +87,14 @@ Compatibilitatea probabilă include:
 - posibil Windows XP.
 - Windowns 11
 
-![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_Win11_open.jpg)
+<p align="center">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_open_(II).gif" alt="Delta Memory Force V.3.0 on Windows 11">
+</p>
 
-![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_cd_install.jpg)
+
+<p align="center">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_cd_install.jpg" alt="Delta Memory Force V.3.0 on Windows 11">
+</p>
 
 Compatibilitatea exactă urmează să fie verificată prin analizarea executabilului original și prin testare în mașini virtuale.
 
