@@ -1,0 +1,71 @@
+************************************************************************
+Software & Copyright© by Paul Aurelian Gagniuc
+
+
+            ((((()       (((((    )))))     ((()))))))        
+            ((    ))     ((( ((  )) )))     (((               
+            ((     ))    (((  (())  )))     ((((((((((        
+            ((     ))    (((        )))     (((               
+            ((    ))     (((        )))     (((               
+            ((((()      (((((      )))))   ((()))             
+
+                     = Delta Memory Force =
+************************************************************************
+
+You should carefully read the following terms and conditions
+before using this software.
+
+If you do not agree to any of the terms of this License, then do
+not install DeltaMemoryForce.
+
+1)For instance, if 8 different workstations , each workstation 
+   must have its own DeltaMemoryForce license.
+
+2)THIS SOFTWARE, AND ALL ACCOMPANYING FILES, DATA AND MATERIALS,
+  ARE DISTRIBUTED "AS IS" AND WITH NO WARRANTIES OF ANY KIND,
+  WHETHER EXPRESS OR IMPLIED.
+
+3)IN ADDITION, IN NO EVENT THE AUTOR SHALL BE LIABLE FOR
+  ANY INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER
+  RELATING TO THE USE OF DELTA MEMORY FORCE.
+
+4)You may not rent, lease, modify, translate, reverse engineer, 
+  decompile, disassemble or create derivative works based 
+  on DELTA MEMORY FORCE.
+
+5)This is not free software.
+
+By using, copying, transmitting, distributing or installing
+DELTAMEMORYFORCE, you agree to all of the terms of this License.  
+
+You may NOT:
+
+    a)  give copies of this version of DELTA MEMORY FORCE
+        personally to anyone.
+    
+    b)  distribute copies of this evaluation version of
+        DELTA MEMORY FORCE
+
+
+YOU ARE SPECIFICALLY PROHIBITED FROM CHARGING, OR REQUESTING
+DONATIONS, FOR ANY COPIES, HOWEVER MADE, AND FROM DISTRIBUTING
+SUCH COPIES WITH OTHER PRODUCTS OF ANY KIND, COMMERCIAL OR
+OTHERWISE, WITHOUT PRIOR WRITTEN PERMISSION FROM THE AUTOR. 
+THE AUTOR RESERVES THE RIGHT TO REVOKE THE ABOVE DISTRIBUTION RIGHTS 
+AT ANY TIME, FOR ANY OR NO REASON.
+
+THIS SOFTWARE, AND ALL ACCOMPANYING FILES, DATA AND MATERIALS,
+ARE DISTRIBUTED "AS IS" AND WITH NO WARRANTIES OF ANY KIND,
+WHETHER EXPRESS OR IMPLIED. 
+
+This is not free software.
+
+All rights of any kind in DELTA MEMORY FORCE which are not expressly granted
+in this License are entirely and exclusively reserved by Paul Aurelian Gagniuc
+You may not rent, lease, modify, translate, reverse engineer, decompile, 
+disassemble or create derivative works based on DELTA MEMORY FORCE.
+
+               = Nuovus Ordo , Anno Domini 2002 =
+
+Software & Copyright© by Paul Aurelian Gagniuc
+************************************************************************
