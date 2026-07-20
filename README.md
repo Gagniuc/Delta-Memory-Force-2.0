@@ -144,7 +144,7 @@ Nu se recomandă executarea aplicației originale pe un sistem de producție. Pe
 
 ## O mărturie personală despre anii 1999–2002
 
-> **Notă de context:** Textul de mai jos reprezintă relatarea mea personală, reconstruită după mai bine de două decenii din memorie, din fișierele originale ale proiectului și din fragmentele de corespondență care au supraviețuit. Unele episoade — în special afirmațiile referitoare la fraude cu carduri — descriu ceea ce mi s-a spus și ceea ce am înțeles eu atunci; nu mai dețin astăzi toate documentele necesare pentru o verificare independentă completă.
+> **Notă de context:** Textul de mai jos reprezintă relatarea mea personală, reconstruită după mai bine de două decenii din memorie, din fișierele originale ale proiectului și din fragmentele de corespondență care au supraviețuit. Unele episoade, în special afirmațiile referitoare la fraude cu carduri, descriu ceea ce mi s-a spus și ceea ce am înțeles eu atunci; nu mai dețin astăzi toate documentele necesare pentru o verificare independentă completă.
 
 ## Începutul: un calculator Pentium într-un apartament din Bacău
 
