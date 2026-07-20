@@ -1,0 +1,104 @@
+******************************************************************
+Software & Copyright© by Paul Aurelian Gagniuc (P.A.G.)
+
+
+            ((((()       (((((    )))))     ((())))))) 2.0        
+            ((    ))     ((( ((  )) )))     (((               
+            ((     ))    (((  (())  )))     ((((((((((        
+            ((     ))    (((        )))     (((               
+            ((    ))     (((        )))     (((               
+            ((((()      (((((      )))))   ((()))             
+
+                   = Delta Memory Force 2.0 =
+******************************************************************
+                       = Despre Program =
+
+Programul este special proiectat pentru lucrul in timp real;
+memoria ram , procesele si gradul de utilizare al procesorului
+sunt vizualizate in timp real.
+
+Deasemenea poate opri orice proces , chiar si programe
+tip trjani, Keylog-uri si virusi.
+
+                        = Facilitati =
+
+- Nu suprasolicita procesorul
+- Recuperarea se face dupa ce procesorul este sub 50 % din capacitate
+- Stabilizeaza sistemele de operare de genul "Windows Me" ect.
+- Permite vizionarea si oprirea proceselor.
+
+                        + Ce Face? +
+
+"Delta Memory Force" este ideal pentru jocuri 3D si programe
+de mari dimensiuni.
+
+                          = RAM =
+Programul este proiectat pentru a elibera memoria RAM atunci 
+cind aceasta ajunge sub limita inferioara si pentru posibilitatea 
+de a optimiza memoria RAM la fiecare "n" minute.
+
+Limita superioara este punctul de reper la care programul 
+incearca sa ajunga prin eliberarea memoriei Ram. 
+
+Optimizarea se face doar atunci cind Procesorul(CPU) este 
+sub 50 % din capacitatea sa. Utilizatorul poate seta aceasta
+limita din meniul de optiuni al programului. 
+
+                        = PROCESE =
+Programul "Delta Memory Force 2.0" permite vizionarea tuturor 
+proceselor din memorie , inclusiv cele care nu sunt vazute
+de combinatia de taste Alt-Ctrl-Delete.
+
+"Delta Memori Force 2,0" nu permite doar vizionarea proceselor
+ci si oprirea acestora sau oprirea procesului
+si stergerea fisierului respectiv , automat.
+
+Trojani de tip NetBus sau Sub7 ect.,pot fi opriti si stersi din computer automat.
+
+Optimizare este semnalizata de LED - ul dreapta sus al
+tastaturii.
+
+
+                       = Optiuni =
+
+Optimizare la fiecare "n" minute:
+Programul optimizeaza memoria la fiecare "n" minute,
+indiferent de  limita inferioara - aici tinindu-se cont 
+doar de limita superioara , la care se tinde.
+
+Pornire cu sistemul de operare: 
+Selectarea acestei optiuni face ca programul "Delta Memoty Force"
+sa porneasca automat odata cu sistemul dumneavoastra de operare.
+
+Recupereaza dupa ce CPU este sub "n" %:
+Recuperarea se face dupa ce procesorul este sub limita 
+"n" % pe care o puteti seta dumneavoastra.
+
+Pornire ca Service:
+Aceasta optiune face ca programul sa nu fie vizibil la
+combinatia de taste Alt-Ctrl-Delete, pentru a nu fi oprit
+din greseala de catre utilizatorii grabiti.
+
+Pornire "minimize":
+La urmatoarea pornire a programului , nu se va mai afisa
+fereastra principala dar programul va ramine rezident 
+in memorie si vizibil in "SysTree". 
+
+
+       ))))))))         ((((()))))     ((((((=Delta=)))))) 
+       )))    )))      (((      )))    (((  ((     ))  ))) 
+       )))     )))     (((      )))    (((   ((   ))   ))) 
+       )))     )))     (((      )))    (((    ((_))    ))) 
+       )))    )))      (((((())))))    (((             ))) 
+       )))))))(        (((      )))    (((             ))) 
+       )))  )))        (((      )))    (((=== Force ===))) 
+       )))   )))       (((      )))    (((     2.0     ))) 
+       )))    )))      (((      )))    (((             ))) 
+      (()))  ((()))   ((()))  ((()))  ((()))         ((()))
+
+               
+******************************************************************
+              = Nuovus Ordo , Anno Domini 2002 =
+
+Software & Copyright© by Paul Aurelian Gagniuc (P.A.G.)
+******************************************************************
