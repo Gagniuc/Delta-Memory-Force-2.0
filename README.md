@@ -1,4 +1,3 @@
-
 # Delta Memory Force 2.0
 
 <img
@@ -16,10 +15,11 @@ Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor,
 
 <hr>
 
-<p align="center">
-  <img src="https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_WinME_open.png" alt="Delta Memory Force V2.0 on Windows Me/2000">
-</p>
-
+<a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
+<img
+  align="right"
+  src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/media.png"
+  alt="Delta Memory Force 2.0 on Windows 11"></a>
 
 <hr>
 
