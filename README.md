@@ -13,6 +13,8 @@ Programul afișează în timp real memoria RAM liberă și totală, utilizarea p
 
 Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor, terminarea acestora și accesarea unor funcții avansate de administrare. Interfața grafică, specifică începutului anilor 2000, folosește un stil tehnic distinct, cu fundal negru, grafice verzi și indicatori colorați actualizați în timp real.
 
+<hr>
+
 Delta Memory Force elibera memoria RAM prin alocarea temporară a unei cantități mari de memorie. Această operație determina Windows să mute în memoria virtuală, pe disc, paginile inactive ale proceselor și să reducă memoria fizică ocupată. După încheierea operației, memoria temporar alocată de program era eliberată, rezultând o creștere imediată a cantității de RAM disponibile.
 
 <a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
