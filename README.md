@@ -17,7 +17,7 @@ Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor,
 <hr>
 
 <p align="center">
-  <img src="https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_WinME_open.jpg" alt="Delta Memory Force V2.0 on Windows Me/2000">
+  <img src="https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_WinME_open.png" alt="Delta Memory Force V2.0 on Windows Me/2000">
 </p>
 
 
