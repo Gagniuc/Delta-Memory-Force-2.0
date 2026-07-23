@@ -149,7 +149,7 @@ Nu se recomandă executarea aplicației originale pe un sistem de producție. Pe
 <a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
 <img
   align="right"
-  src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/media.png"
+  src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/media_mic.png"
   alt="Delta Memory Force 2.0"></a>
 
 <hr>
