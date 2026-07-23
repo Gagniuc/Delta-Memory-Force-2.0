@@ -29,10 +29,7 @@ Aplicația a fost concepută pentru generațiile Windows din acea perioadă, pre
 
 Elementele grafice statice ale interfeței, în special măștile și fundalurile panourilor, au fost realizate manual în Microsoft Paint, pixel cu pixel. Graficele CPU și RAM, LED-urile, barele de nivel și acele indicatoarelor de tip VU-meter sunt generate și actualizate dinamic prin programare, în timp real.
 
-Repository-ul reprezintă arhiva completă a proiectului Delta Memory Force și reunește versiunile și subversiunile păstrate, codul sursă original, măștile grafice realizate manual în format BMP, documentele tehnice, paginile HTM și HTML explicative, kiturile de instalare, structurile CD-urilor și coperțile concepute pentru distribuția comercială. Arhiva include și sistemul original de licențiere trial. La prima pornire, programul genera un identificator aleatoriu de 20 de caractere, îl cripta și îl afișa drept Product ID. 
-
-Autorul introducea acest Product ID într-un generator separat, care recupera identificatorul intern și producea o cheie de activare unică prin criptarea unei semnături secrete. Programul valida cheia prin operația inversă și accepta activarea numai dacă obținea semnătura internă corectă. Versiunea trial permitea 30 de porniri, iar contorul era duplicat și verificat în mai multe zone mascate ale registrului Windows, împreună cu un fișier suplimentar de control, pentru a detecta tentativele de resetare. După validare, cheia și numele cumpărătorului erau păstrate în registru, iar copia devenea completă și înregistrată.
-
+Repository-ul reprezintă arhiva completă a proiectului Delta Memory Force și reunește versiunile și subversiunile păstrate, codul sursă original, măștile grafice realizate manual în format BMP, documentele tehnice, paginile HTM și HTML explicative, kiturile de instalare, structurile CD-urilor și coperțile concepute pentru distribuția comercială. 
 
 ## Funcționalități
 
@@ -68,7 +65,6 @@ Aplicația includea și integrare în zona de notificare Windows, numită System
 
 Fereastra de opțiuni permitea pornirea automată odată cu Windows, rularea minimizată în System Tray, funcționarea în mod de monitorizare, optimizarea memoriei la pornire și rularea în mod service. Utilizatorul putea stabili ca eliberarea memoriei să fie efectuată numai atunci când utilizarea procesorului cobora sub un anumit prag, precum 50%, și putea configura intervalul periodic de optimizare a memoriei RAM, de exemplu la fiecare 30 de minute.
 
-
 ## Principiul de eliberare a memoriei
 
 Delta Memory Force elibera memoria RAM prin **alocarea temporară a unei cantități mari de memorie**. Această operație determina sistemul Windows să reducă memoria fizică ocupată de paginile inactive și să transfere o parte dintre acestea în memoria virtuală, pe disc. După finalizarea procesului, memoria alocată temporar de aplicație era eliberată, rezultând o creștere imediată a cantității de RAM raportate ca fiind disponibile. Programul nu ștergea date și nu închidea automat aplicațiile. El forța sistemul de operare să reorganizeze utilizarea memoriei, păstrând în RAM în special datele active și mutând temporar pe disc informațiile utilizate mai rar. La începutul anilor 2000, această tehnică era cunoscută sub denumiri precum: i) **RAM optimization**; ii) **memory forcing**; iii) **memory freeing**. Evident, acest principiu explică și numele aplicației: **Delta Memory Force**.
@@ -87,21 +83,32 @@ Interfața grafică reflectă stilul aplicațiilor tehnice de la începutul anil
 
 ## Compatibilitate
 
-Aplicația a fost proiectată pentru sistemele Windows disponibile în perioada în care a fost dezvoltată.
-
-Compatibilitatea probabilă include:
+Aplicația a fost proiectată pentru sistemele Windows disponibile în perioada în care a fost dezvoltată. Compatibilitatea include:
 
 - Windows 98;
 - Windows NT;
 - Windows 2000;
 - posibil Windows XP.
-- Windowns 11
+- Windowns 11 (NOU):
 
 <hr>
 
 <p align="center">
   <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_open_(II).gif" width="611" height="386" alt="Delta Memory Force V.3.0 on Windows 11">
 </p>
+
+<hr>
+
+
+## Sistemul de licențiere
+
+Arhiva include și sistemul original de licențiere trial. La prima pornire, Delta Memory Force genera intern un șir aleatoriu de 20 de caractere. Programul cripta acest șir și afișa rezultatul sub forma unui Product ID. Cumpărătorul îmi trimitea Product ID-ul, iar eu îl introduceam într-un program separat pentru generarea licențelor, pe care îl păstram doar la mine.
+
+Generatorul de licențe decripta Product ID-ul și recupera șirul aleatoriu creat de program la prima pornire. Apoi folosea acel șir pentru a cripta semnătura internă DMFbyPaulGagniuc6669. Rezultatul acestei operații era cheia de activare pe care o trimiteam cumpărătorului. Cheia era astfel creată special pentru instalarea respectivă și nu putea fi folosită în mod normal pentru un alt Product ID.
+
+După introducerea cheii, Delta Memory Force efectua operația inversă. Programul recupera propriul șir intern, decripta cheia primită și verifica dacă rezultatul era exact semnătura DMFbyPaulGagniuc6669. Numai în acest caz activarea era acceptată, iar numele cumpărătorului și cheia erau salvate în registrul Windows. Versiunea trial devenea astfel o copie completă și înregistrată.
+
+Versiunea trial permitea 30 de porniri. Contorul nu era păstrat într-un singur loc, ci era duplicat în trei zone diferite și mascate ale registrului Windows. La fiecare pornire, programul compara valorile și le incrementa simultan. Dacă una dintre ele lipsea, fusese modificată sau nu mai corespundea celorlalte, programul considera că utilizatorul încercase să reseteze perioada trial și își închidea execuția. Verificarea era completată de alte valori de control și de fișierul System32.pga, folosit pentru detectarea ștergerii informațiilor asociate versiunii trial.
 
 <hr>
 
@@ -116,10 +123,6 @@ Compatibilitatea probabilă include:
 </p>
 
 <hr>
-
-Compatibilitatea exactă urmează să fie verificată prin analizarea executabilului original și prin testare în mașini virtuale.
-
-Aplicația nu este destinată sistemelor Windows moderne, iar funcționarea sa pe Windows 10 sau Windows 11 nu este garantată.
 
 ## Cod sursă
 
