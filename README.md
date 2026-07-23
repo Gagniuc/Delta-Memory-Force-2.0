@@ -115,12 +115,17 @@ Versiunea trial permitea 30 de porniri. Contorul nu era păstrat într-un singur
 
 Delta Memory Force fusese conceput ca un produs comercial complet, nu doar ca un simplu fișier executabil. Fiecare ediție putea fi distribuită pe CD, într-o carcasă proprie, cu o copertă realizată special pentru versiunea respectivă.
 
+<hr>
+
+<p align="center">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/cover.png" alt="Delta Memory Force V.2.0 CD/DVD cover">
+</p>
+
+<hr>
+
 La introducerea CD-ului în calculator, funcția Autorun pornea automat o interfață grafică dedicată. Din această interfață, utilizatorul putea vizualiza programul, porni instalarea, copia fișierele de pe CD, deschide documentația Read me sau închide aplicația.
 
-Procesul de instalare era realizat printr-un program separat, creat special pentru Delta Memory Force. Utilizatorul putea alege directorul de instalare, porni sau anula copierea fișierelor și urmări progresul operației printr-o bară grafică și un indicator procentual. Interfața installerului păstra aceeași identitate vizuală ca produsul principal, cu fundaluri grafice, butoane personalizate și elemente desenate pentru această ediție.
-
-CD-ul conținea astfel întregul pachet necesar distribuției, incluzând executabilul, fișierele auxiliare, documentația, imaginile, sistemul trial, programul de instalare și interfața Autorun. În această formă, Delta Memory Force fusese gândit ca un produs software complet, pregătit pentru comercializare și livrare fizică.
-
+Procesul de instalare era realizat printr-un program separat, creat special pentru Delta Memory Force. Utilizatorul putea alege directorul de instalare, porni sau anula copierea fișierelor și urmări progresul operației printr-o bară grafică și un indicator procentual. Interfața installerului păstra aceeași identitate vizuală ca produsul principal, cu fundaluri grafice, butoane personalizate și elemente realizate special pentru această ediție.
 
 <hr>
 
@@ -135,6 +140,10 @@ CD-ul conținea astfel întregul pachet necesar distribuției, incluzând execut
 </p>
 
 <hr>
+
+Unele ediții pe CD utilizau însă o interfață directă în format HTM sau HTML, care funcționa ca meniu de prezentare și instalare. În funcție de versiune, kitul Delta Memory Force era disponibil în mai multe forme, cu structuri de instalare, interfețe și materiale auxiliare diferite. Versiunea Delta Memory Force 1.0 fusese pregătită inclusiv pentru distribuție pe dischete de 1,44 MB, ceea ce reflectă perioada de tranziție dintre software-ul livrat pe dischetă și distribuția pe CD.
+
+CD-ul conținea astfel întregul pachet necesar distribuției, incluzând executabilul, fișierele auxiliare, documentația, imaginile, sistemul trial, programul de instalare, interfața Autorun și, în anumite ediții, meniurile HTM sau HTML. În această formă, Delta Memory Force fusese gândit ca un produs software complet, pregătit pentru comercializare și livrare fizică.
 
 ## Cod sursă
 
