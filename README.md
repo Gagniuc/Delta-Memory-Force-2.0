@@ -13,17 +13,15 @@ Programul afișează în timp real memoria RAM liberă și totală, utilizarea p
 
 Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor, terminarea acestora și accesarea unor funcții avansate de administrare. Interfața grafică, specifică începutului anilor 2000, folosește un stil tehnic distinct, cu fundal negru, grafice verzi și indicatori colorați actualizați în timp real.
 
-<hr>
+Delta Memory Force elibera memoria RAM prin alocarea temporară a unei cantități mari de memorie. Această operație determina Windows să mute în memoria virtuală, pe disc, paginile inactive ale proceselor și să reducă memoria fizică ocupată. După încheierea operației, memoria temporar alocată de program era eliberată, rezultând o creștere imediată a cantității de RAM disponibile.
 
 <a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
 <img
   align="right"
   src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/media.png"
-  alt="Delta Memory Force 2.0 on Windows 11"></a>
+  alt="Delta Memory Force 2.0"></a>
 
 <hr>
-
-Delta Memory Force elibera memoria RAM prin alocarea temporară a unei cantități mari de memorie. Această operație determina Windows să mute în memoria virtuală, pe disc, paginile inactive ale proceselor și să reducă memoria fizică ocupată. După încheierea operației, memoria temporar alocată de program era eliberată, rezultând o creștere imediată a cantității de RAM disponibile.
 
 Programul nu ștergea date și nu închidea aplicațiile, ci forța sistemul de operare să reorganizeze memoria, păstrând în RAM în special datele active și transferând pe disc informațiile utilizate mai rar. Acest principiu era cunoscut la începutul anilor 2000 sub denumirea de RAM optimization sau memory forcing și explică numele aplicației, Delta Memory Force.
 
@@ -51,6 +49,13 @@ Programul permite, de asemenea:
 - accesarea unor opțiuni suplimentare de administrare a sistemului.
 
 ![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_sys.jpg)
+
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_WinME_open.png" alt="Delta Memory Force V2.0 on Windows Me/2000">
+</p>
 
 ## Principiul de eliberare a memoriei
 
