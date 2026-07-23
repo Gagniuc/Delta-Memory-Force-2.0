@@ -296,9 +296,7 @@ Poate că Delta Memory Force nu a devenit succesul comercial pe care mi-l imagin
 
 ## O capsulă de timp software
 
-Acest repository trebuie privit ca o capsulă de timp.
-
-El conține un program construit într-o perioadă în care:
+Acest repository trebuie privit ca o capsulă de timp. El conține un program construit într-o perioadă în care:
 
 - Internetul nu era permanent și nici omniprezent;
 - un site putea fi găzduit pe GeoCities sau Angelfire;
@@ -309,11 +307,7 @@ El conține un program construit într-o perioadă în care:
 - un calculator cu 32 sau 64 MB de RAM putea avea nevoie reală de un optimizator de memorie;
 - un singur programator putea încerca să construiască un produs global dintr-un apartament din Bacău.
 
-Delta Memory Force este rezultatul acelei lumi.
-
-Îl ofer acum gratuit, cu bunele și relele lui, cu stilul vizual al epocii, cu limitările tehnice, cu ideile naive și cu ambiția enormă care m-a făcut să îl construiesc.
-
-După mai bine de douăzeci de ani, programul nu mai este doar un executabil. Este o poveste despre programare, Internet, proprietate intelectuală, încredere, risc și începuturile unei vieți dedicate software-ului.
+Delta Memory Force este rezultatul acelei lumi. Îl ofer acum gratuit, cu bunele și relele lui, cu stilul vizual al epocii, cu limitările tehnice, cu ideile naive și cu ambiția enormă care m-a făcut să îl construiesc. După mai bine de douăzeci de ani, programul nu mai este doar un executabil. Este o poveste despre programare, Internet, proprietate intelectuală, încredere, risc și începuturile unei vieți dedicate software-ului.
 
 — **Paul Aurelian Gagniuc**
 ![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/old_days_(II).png)
