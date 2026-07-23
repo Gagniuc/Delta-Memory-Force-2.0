@@ -110,6 +110,18 @@ După introducerea cheii, Delta Memory Force efectua operația inversă. Program
 
 Versiunea trial permitea 30 de porniri. Contorul nu era păstrat într-un singur loc, ci era duplicat în trei zone diferite și mascate ale registrului Windows. La fiecare pornire, programul compara valorile și le incrementa simultan. Dacă una dintre ele lipsea, fusese modificată sau nu mai corespundea celorlalte, programul considera că utilizatorul încercase să reseteze perioada trial și își închidea execuția. Verificarea era completată de alte valori de control și de fișierul System32.pga, folosit pentru detectarea ștergerii informațiilor asociate versiunii trial.
 
+
+## Distribuția pe CD și programul de instalare
+
+Delta Memory Force fusese conceput ca un produs comercial complet, nu doar ca un simplu fișier executabil. Fiecare ediție putea fi distribuită pe CD, într-o carcasă proprie, cu o copertă realizată special pentru versiunea respectivă.
+
+La introducerea CD-ului în calculator, funcția Autorun pornea automat o interfață grafică dedicată. Din această interfață, utilizatorul putea vizualiza programul, porni instalarea, copia fișierele de pe CD, deschide documentația Read me sau închide aplicația.
+
+Procesul de instalare era realizat printr-un program separat, creat special pentru Delta Memory Force. Utilizatorul putea alege directorul de instalare, porni sau anula copierea fișierelor și urmări progresul operației printr-o bară grafică și un indicator procentual. Interfața installerului păstra aceeași identitate vizuală ca produsul principal, cu fundaluri grafice, butoane personalizate și elemente desenate pentru această ediție.
+
+CD-ul conținea astfel întregul pachet necesar distribuției, incluzând executabilul, fișierele auxiliare, documentația, imaginile, sistemul trial, programul de instalare și interfața Autorun. În această formă, Delta Memory Force fusese gândit ca un produs software complet, pregătit pentru comercializare și livrare fizică.
+
+
 <hr>
 
 <p align="center">
@@ -126,9 +138,15 @@ Versiunea trial permitea 30 de porniri. Contorul nu era păstrat într-un singur
 
 ## Cod sursă
 
-Intenționez să public și **codul sursă original al aplicației**, în măsura în care acesta poate fi recuperat și organizat.
+Delta Memory Force a fost realizat integral în Microsoft Visual Basic 6.0, un limbaj pe care îl consider remarcabil și perfect relevant chiar și astăzi. Am lucrat, de-a lungul timpului, cu majoritatea limbajelor de programare importante, însă niciunul nu a atins, în opinia mea, combinația de putere, claritate, productivitate și eleganță oferită de VB6.
 
-Codul va fi oferit ca:
+Visual Basic 6.0 permitea construirea rapidă a unor aplicații Windows complexe, cu interfețe grafice elaborate, acces direct la API-ul sistemului de operare, administrarea proceselor, lucrul cu registrul Windows, monitorizarea resurselor și dezvoltarea unor mecanisme proprii de instalare și licențiere. Delta Memory Force demonstrează că VB6 nu era un simplu instrument pentru aplicații elementare, ci un mediu capabil să susțină proiecte software complete și sofisticate.
+
+Țin să afirm acest lucru fără echivoc: dintre toate limbajele și mediile de dezvoltare pe care le-am utilizat, Visual Basic 6.0 rămâne pentru mine unul dintre cele mai puternice, elegante și bine concepute instrumente din istoria programării Windows.
+
+Codul sursă original este publicat ca material istoric, tehnic și educațional, oferind un exemplu complet de programare Windows, monitorizare a resurselor sistemului, administrare a proceselor, interfață grafică personalizată, sistem trial, licențiere și distribuție software.
+
+Codul este oferit ca:
 
 - material istoric;
 - exemplu de programare Windows;
@@ -138,7 +156,7 @@ Codul va fi oferit ca:
 
 ## Starea proiectului
 
-- **Perioada inițială de dezvoltare:** 2000–2001
+- **Perioada inițială de dezvoltare:** 1999-2001
 - **Ultima versiune compilată:** aproximativ 2004
 - **Stare actuală:** proiect istoric / arhivistic
 - **Platformă originală:** Microsoft Windows
@@ -146,9 +164,7 @@ Codul va fi oferit ca:
 
 ## Notă
 
-Acest proiect este publicat pentru documentare și conservare istorică. Unele funcții de administrare a proceselor și memoriei pot necesita drepturi speciale sau pot avea un comportament diferit pe sisteme de operare mai noi.
-
-Nu se recomandă executarea aplicației originale pe un sistem de producție. Pentru testare, este indicată utilizarea unei mașini virtuale izolate.
+Acest proiect este publicat pentru documentare și conservare istorică. Unele funcții de administrare a proceselor și memoriei pot necesita drepturi speciale sau pot avea un comportament diferit pe sisteme de operare mai noi. Nu se recomandă executarea aplicației originale pe un sistem de producție. Pentru testare, este indicată utilizarea unei mașini virtuale izolate.
 
 ---
 
