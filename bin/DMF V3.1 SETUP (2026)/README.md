@@ -2,7 +2,7 @@
 
 ## Why Windows displays this warning
 
-`DMF_3_0_Setup.exe` is distributed without a commercial digital signature. Because the installer is unsigned and has not yet built a Microsoft SmartScreen reputation, Windows may identify the publisher as **Unknown publisher** and temporarily block the application.
+`DMF 3.1 Setup.exe` is distributed without a commercial digital signature. Because the installer is unsigned and has not yet built a Microsoft SmartScreen reputation, Windows may identify the publisher as **Unknown publisher** and temporarily block the application.
 
 This SmartScreen message does **not, by itself, mean that the program is malware**. It means that Windows cannot verify the publisher through a paid code-signing certificate.
 
@@ -12,7 +12,7 @@ Delta Memory Force 3.0 is published here as a free historical software project, 
 
 ## How to start the installer
 
-### Step 1 — Select **More info**
+### Step 1 - Select **More info**
 
 When the first SmartScreen window appears, click **More info**.
 
@@ -20,12 +20,12 @@ When the first SmartScreen window appears, click **More info**.
   <img src="smartscreen_step_1_more_info.png" alt="Microsoft Defender SmartScreen More info button" width="534">
 </p>
 
-### Step 2 — Select **Run anyway**
+### Step 2 - Select **Run anyway**
 
 Windows will then display the application name and the publisher status. Confirm that the application is:
 
 ```text
-DMF_3_0_Setup.exe
+DMF 3.1 Setup.exe
 ```
 
 Then click **Run anyway**.
@@ -54,5 +54,3 @@ Users who prefer an additional security check may:
 SmartScreen reputation and digital signing are separate from the actual behaviour of the program. The warning shown above is caused by the absence of a recognised publisher signature, not by a confirmed malware detection.
 
 ---
-
-**Software and copyright © Paul A. Gagniuc**
