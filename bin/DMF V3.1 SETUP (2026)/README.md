@@ -17,7 +17,7 @@ Delta Memory Force 3.0 is published here as a free historical software project, 
 When the first SmartScreen window appears, click **More info**.
 
 <p align="center">
-  <img src="smartscreen_step_1_more_info.png" alt="Microsoft Defender SmartScreen More info button" width="534">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/bin/DMF%20V3.1%20SETUP%20(2026)/img/1.png" alt="Microsoft Defender SmartScreen More info button" width="534">
 </p>
 
 ### Step 2 - Select **Run anyway**
@@ -31,7 +31,7 @@ DMF 3.1 Setup.exe
 Then click **Run anyway**.
 
 <p align="center">
-  <img src="smartscreen_step_2_run_anyway.png" alt="Microsoft Defender SmartScreen Run anyway button" width="534">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/bin/DMF%20V3.1%20SETUP%20(2026)/img/1.png" alt="Microsoft Defender SmartScreen Run anyway button" width="534">
 </p>
 
 The installer will start normally.
