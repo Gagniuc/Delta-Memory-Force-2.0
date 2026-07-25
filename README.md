@@ -180,11 +180,17 @@ Acest proiect este publicat pentru documentare și conservare istorică. Unele f
 
 # Delta Memory Force: Istoria unui software
 
-<a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
-<img
-  align="right"
-  src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/media_mic.png"
-  alt="Delta Memory Force 2.0"></a>
+| RAM & CPU | Limite RAM |
+|:---:|:---:|
+| <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/dmf.png" width="100%"> | <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/limite.png" width="100%"> |
+
+| Terminarea proceselor |
+|:---:|
+| <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/sterge_1.png" width="100%"> |
+
+| Prioritatea proceselor |
+|:---:|
+| <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/sterge_1.png" width="100%"> |
 
 <hr>
 
