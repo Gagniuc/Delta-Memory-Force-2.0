@@ -199,15 +199,12 @@ La sfârșitul anilor 1990, lumea software-ului arăta cu totul altfel decât as
 
 Privit astăzi, programul aparține în mod evident epocii Windows 95, Windows 98, Windows Millennium, Windows NT 4.0 și Windows 2000. Interfața este aglomerată, tehnică, colorată puternic în verde, roșu și galben, cu grafice desenate în timp real și cu un stil vizual inspirat de programele „de sistem”, de panourile electronice și de estetica informatică a începutului de mileniu. La vremea respectivă, însă, tocmai această aparență îi dădea personalitate.
 
-Delta Memory Force afișa memoria RAM liberă și totală, încărcarea procesorului, lista proceselor active, prioritatea procesului selectat, numărul de fire de execuție și informații despre spațiul de stocare. Programul putea elibera memoria, modifica prioritatea unui proces, opri procese și, în anumite situații, încerca să elimine fișierul executabil asociat. Includea grafice pentru CPU și memorie și putea rula permanent, în timp real.
-
-<hr>
 
 | Prioritatea proceselor |
 |:---:|
 | <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/sterge_1.png" width="100%"> |
 
-
+Delta Memory Force afișa memoria RAM liberă și totală, încărcarea procesorului, lista proceselor active, prioritatea procesului selectat, numărul de fire de execuție și informații despre spațiul de stocare. Programul putea elibera memoria, modifica prioritatea unui proces, opri procese și, în anumite situații, încerca să elimine fișierul executabil asociat. Includea grafice pentru CPU și memorie și putea rula permanent, în timp real.
 
 | Terminarea proceselor |
 |:---:|
