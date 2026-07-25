@@ -180,19 +180,6 @@ Acest proiect este publicat pentru documentare și conservare istorică. Unele f
 
 # Delta Memory Force: Istoria unui software
 
-| RAM & CPU | Limite RAM |
-|:---:|:---:|
-| <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/dmf.png" width="100%"> | <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/limite.png" width="100%"> |
-
-| Terminarea proceselor |
-|:---:|
-| <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/sterge_1.png" width="100%"> |
-
-| Prioritatea proceselor |
-|:---:|
-| <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/sterge_1.png" width="100%"> |
-
-<hr>
 
 ## O mărturie personală despre anii 1999–2002
 
@@ -204,11 +191,27 @@ La sfârșitul anilor 1990, lumea software-ului arăta cu totul altfel decât as
 
 În 1999 locuiam în Bacău, România, și lucram pe un calculator Pentium modest, aflat acasă. Nu aveam conexiune permanentă la Internet. Când aveam nevoie să caut informații, să trimit un e-mail sau să descarc un fișier, mergeam la un Internet café. Accesul se plătea la oră. Trebuia să aștepți să se elibereze un calculator, să îți pregătești dinainte întrebările și fișierele și să folosești cât mai eficient timpul cumpărat.
 
+| RAM & CPU | Limite RAM |
+|:---:|:---:|
+| <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/dmf.png" width="100%"> | <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/limite.png" width="100%"> |
+
 În acel context am început să dezvolt **Delta Memory Force**, un utilitar pentru Windows destinat monitorizării și administrării resurselor sistemului. Primele versiuni au apărut în perioada 1999–2001, iar proiectul a continuat să fie modificat și îmbunătățit și după aceea.
 
 Privit astăzi, programul aparține în mod evident epocii Windows 95, Windows 98, Windows Millennium, Windows NT 4.0 și Windows 2000. Interfața este aglomerată, tehnică, colorată puternic în verde, roșu și galben, cu grafice desenate în timp real și cu un stil vizual inspirat de programele „de sistem”, de panourile electronice și de estetica informatică a începutului de mileniu. La vremea respectivă, însă, tocmai această aparență îi dădea personalitate.
 
 Delta Memory Force afișa memoria RAM liberă și totală, încărcarea procesorului, lista proceselor active, prioritatea procesului selectat, numărul de fire de execuție și informații despre spațiul de stocare. Programul putea elibera memoria, modifica prioritatea unui proces, opri procese și, în anumite situații, încerca să elimine fișierul executabil asociat. Includea grafice pentru CPU și memorie și putea rula permanent, în timp real.
+
+<hr>
+
+| Prioritatea proceselor |
+|:---:|
+| <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/sterge_1.png" width="100%"> |
+
+
+
+| Terminarea proceselor |
+|:---:|
+| <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/sterge_1.png" width="100%"> |
 
 Pentru un program realizat acasă, de un tânăr programator fără acces permanent la Internet și fără infrastructura unei companii, proiectul era ambițios. Nu era doar un exercițiu școlar și nici o simplă machetă. Era un produs funcțional, cu instalare, interfață, sistem trial, mecanism de înregistrare și o încercare reală de comercializare.
 
