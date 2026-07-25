@@ -232,9 +232,7 @@ Pentru mine, propunerea părea o oportunitate extraordinară. Eram un programato
 
 ## Ramforces.com și promisiunea unei afaceri globale
 
-Am început să discutăm despre comercializarea programului prin domeniul **ramforces.com**. Modelul urma să fie apropiat de ceea ce astăzi am numi distribuție shareware cu activare individuală.
-
-Programul genera pentru fiecare calculator un cod unic. Pe baza acelui cod trebuia produsă o cheie de înregistrare. Eu realizasem separat un program pentru generarea sau decodificarea cheilor și nu intenționam să îl cedez. Din punctul meu de vedere, acesta era mecanismul de siguranță al afacerii: Samy putea promova și vinde produsul, dar cheia finală trebuia să vină de la mine pentru fiecare client.
+Am început să discutăm despre comercializarea programului prin domeniul <a href="https://web.archive.org/web/20020000000000*/Ramforces.com">**ramforces.com**</a>. Modelul urma să fie apropiat de ceea ce astăzi am numi distribuție shareware cu activare individuală. Programul genera pentru fiecare calculator un cod unic. Pe baza acelui cod trebuia produsă o cheie de înregistrare. Eu realizasem separat un program pentru generarea sau decodificarea cheilor și nu intenționam să îl cedez. Din punctul meu de vedere, acesta era mecanismul de siguranță al afacerii: Samy putea promova și vinde produsul, dar cheia finală trebuia să vină de la mine pentru fiecare client.
 
 Am insistat asupra acestui lucru deoarece înțelegeam un principiu esențial: cine controlează generatorul de licențe controlează, în practică, produsul comercial. Fără acest control, partenerul putea continua să distribuie programul fără autor, fără raportarea vânzărilor și fără plata părții datorate dezvoltatorului.
 
