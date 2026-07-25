@@ -1,5 +1,7 @@
 # Running Delta Memory Force 3.0 on Windows 11
 
+This version is released without a trial limitation and is fully functional from the first launch.
+
 ## Why Windows displays this warning
 
 `DMF 3.1 Setup.exe` is distributed without a commercial digital signature. Because the installer is unsigned and has not yet built a Microsoft SmartScreen reputation, Windows may identify the publisher as **Unknown publisher** and temporarily block the application.
