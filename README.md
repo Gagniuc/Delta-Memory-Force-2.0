@@ -181,7 +181,7 @@ This project is published for documentation and historical preservation. Some pr
 # Delta Memory Force: The History of a Software Project
 
 
-## A Personal Account of the Years 1999–2002
+## A Personal Account of the Years 1999-2002
 
 > **Context note:** The text below represents my personal account, reconstructed after more than two decades from memory, from the project's original files, and from fragments of correspondence that survived. Some episodes, particularly the statements concerning card fraud, describe what I was told and what I understood at the time; today, I no longer possess all the documents required for a complete independent verification.
 
