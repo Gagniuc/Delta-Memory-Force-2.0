@@ -230,6 +230,36 @@ Mi-a spus că familia lui se stabilise de mai mult timp în Timișoara și că a
 
 Pentru mine, propunerea părea o oportunitate extraordinară. Eram un programator tânăr din Bacău, lucram singur, nu aveam acces permanent la Internet și nu cunoșteam aproape nimic despre infrastructura comercială internațională. El părea să aibă acces la domenii, servere, plăți online și contacte. În acel moment, diferența dintre a scrie un program și a-l vinde în lume părea uriașă. Samy susținea că poate acoperi exact această diferență.
 
+
+## Viața de hacker de la sfârșitul anilor 90'
+
+Abia terminasem liceul și, fără să-mi dau seama prea bine ce eram, duceam probabil ceea ce astăzi s-ar numi o viață de hacker. În Bacău aveam câteva locuri între care mă mișcam aproape zilnic. Cinematograful „Luceafărul”, dacă îmi amintesc bine numele, anticariatul unde căutam cărți tehnice, multe publicate chiar de universitatea la care aveam să ajung, peste ani, cadru didactic, și Internet Café-ul din hotel.
+
+Internet Café-ul devenise laboratorul meu neoficial. Veneam cu programele scrise acasă pe dischete de 1,44 MB. Făceam viruși în limbaj de asamblare, viermi de rețea, troieni și alte experimente pe care astăzi le-am numi fără ezitare aplicații malware. Începusem și dezvoltarea unui remote administration tool foarte sofisticat, pe care intenționam să-l transform într-un produs comercial și să-l vând.
+
+Cea mai dificilă problemă nu era întotdeauna scrierea codului, ci compatibilitatea. Acasă, un program putea funcționa perfect, iar pe un alt calculator cu Windows 98 sau Windows Me se putea bloca imediat. Sistemele erau configurate diferit, bibliotecile nu erau mereu aceleași, iar componentele hardware și software puteau produce rezultate complet neașteptate.
+
+De aceea mergeam aproape zilnic la Internet Café. Testam programele pe mai multe configurații și urmăream comportamentul infecției la nivel larg, atât în rețeaua locală, cât și prin Internet. Mă interesa să văd câte calculatoare putea infecta fiecare program, cât de repede se putea propaga și cât de mult depindea succesul infectării de strategia folosită de virus, vierme sau troian.
+
+Nu urmăream doar dacă programul pornea. Mă interesa dacă rămânea stabil, dacă putea funcționa pe alte versiuni și configurații de Windows, dacă era detectat, dacă se putea ascunde și dacă își putea continua activitatea fără să se prăbușească. Pentru mine, adevăratul test începea abia atunci când codul părăsea calculatorul pe care fusese scris.
+
+Unele dintre proiectele acelea au rămas neterminate. De altele am uitat complet după ce am plecat la facultate, la București. Poate că am realizat și aplicații care au devenit ulterior cunoscute. Poate că nu. Există lucruri despre perioada aceea pe care prefer să nu le spun nici acum (deși, după 26-27 de ani, probabil că faptele s-ar fi prescris în România. Nu cunosc însă legislația și termenele de prescripție din fiecare țară).
+
+Administratorul localului, cred că îl chema Andrei, era un băiat blond, scund, foarte de treabă și destul de cool. Ne lăsa să lucrăm fără să stea permanent în spatele nostru și ne oferea intimitate. Oricum, eu cunoșteam procesele din Windows aproape cu ochii închiși, precum și porturile deschise pe TCP/IP sau UDP, și mi-aș fi dat seama imediat dacă cineva ar fi încercat să mă supravegheze.
+
+Pe atunci, sistemul de operare nu era „viu” ca astăzi. Orice activitate neobișnuită devenea aproape imediat vizibilă în LED-ul hard diskului. Dacă începea să clipească fără motiv, era un semnal de alarmă: ceva tocmai pornise, ceva citea date de pe disc fără știrea ta sau, pur și simplu, se întâmpla ceva ce trebuia investigat.
+
+Aveam și un program pentru monitorizarea traficului de rețea. În mod normal, nu trebuia să existe aproape deloc trafic outgoing fără o explicație clară. Dacă programul începea să „mârâie”, însemna că era o problemă serioasă. Astăzi, sistemele de operare și aplicațiile comunică permanent în fundal, iar o asemenea observație intuitivă este mult mai greu de făcut. Atunci puteai simți aproape imediat când calculatorul făcea ceva fără permisiunea ta.
+
+In fine, ironia era că eu eram cel care vedea mai mult decât ar fi trebuit. Pe unele calculatoare aveam instalat remote admin-ul meu, ascuns astfel încât să pară un proces obișnuit al sistemului. Era și prima dată când mă forțasem să inventez propriile soluții multimedia. Pentru afișarea ecranului la distanță, nu transmiteam fiecare imagine JPEG în întregime, ci doar regiunile care se modificau de la un cadru la altul. În felul acesta, traficul de rețea era redus considerabil, iar imaginea putea fi urmărită aproape în timp real chiar și prin conexiunile lente ale perioadei. Nici administratorul localului nu și-a dat vreodată seama că programul exista. Prin el puteam vedea ecranul în timp real și puteam urmări ce se întâmpla pe calculator fără ca persoana din fața lui să știe.
+
+Așa l-am observat pentru prima dată pe Samy, înainte să-l cunosc personal. Îmi amintesc că prelua date de carduri dintr-un fișier text și le testa pe site-uri de cumpărături. Nu știam de unde proveneau acele date și nici care era întreaga amploare a activității lui (poate erau cardurile lui :D). Nu era treaba mea și nu am intervenit, dar imaginea mi-a rămas în minte.
+
+Chiar în ziua de 11 septembrie 2001 l-am văzut pentru prima dată în realitate. După ce îi observasem activitatea pe calculator, l-am întâlnit în aceeași zi în care la televizor se desfășurau atacurile din Statele Unite. Din acel moment, ceea ce văzusem anterior s-a combinat în mintea mea cu comportamentul lui, cu împrejurările în care apăruse și cu informațiile pe care aveam să le aflu ulterior.
+
+Mi-a trecut atunci prin minte o posibilitate tulburătoare: dacă activitatea lui nu era doar o formă obișnuită de fraudă? Dacă banii obținuți ajungeau, direct sau indirect, la un grup care avea legătură cu ceea ce se întâmpla în acele ore la televizor? Nu aveam dovezi și nu puteam demonstra o asemenea legătură. Era doar o suspiciune construită din fragmente, observații și coincidențe. Poate că interpretam prea mult. Poate că nu. Dar suspiciunea mea nu apăruse din nimic.
+
+
 ## Ramforces.com și promisiunea unei afaceri globale
 
 Am început să discutăm despre comercializarea programului prin domeniul <a href="https://web.archive.org/web/20020000000000*/Ramforces.com">**ramforces.com**</a>. Modelul urma să fie apropiat de ceea ce astăzi am numi distribuție shareware cu activare individuală. Programul genera pentru fiecare calculator un cod unic. Pe baza acelui cod trebuia produsă o cheie de înregistrare. Eu realizasem separat un program pentru generarea sau decodificarea cheilor și nu intenționam să îl cedez. Din punctul meu de vedere, acesta era mecanismul de siguranță al afacerii: Samy putea promova și vinde produsul, dar cheia finală trebuia să vină de la mine pentru fiecare client.
