@@ -225,6 +225,8 @@ The atmosphere changed instantly. People were no longer paying attention to the 
 Amid that commotion, I noticed a single man who did not seem interested in the television. He was focused on the computer, withdrawn and tense. He seemed suspicious to me. It must be stated clearly that this was my perception at the time, during a moment of collective shock and a period in which information was incomplete. The fact that the man was of Arab origin and was not watching the television was not, in itself, any evidence of a connection to the attacks. Nevertheless, I was very young, and the coincidence caught my attention.
 
 
+### Mental gymnastics - remembering Hotel Moldova details from ~ 30 years ago
+
 <hr>
 
 <p align="center">
@@ -323,7 +325,11 @@ In the messages sent to Samy, I told him that I would go to Bucharest for ORDA a
 
 ## The Journey to Timișoara
 
-After registering the program, I travelled to Timișoara at Samy's invitation. I arrived in a city I did not know and called him. We met in the central area. He was accompanied by two or three Romanians. The way they behaved towards me seemed unusual; I had the impression that they regarded me with a level of respect I was not accustomed to receiving. Samy had probably introduced me as the programmer who had created the product from which the business was supposed to emerge.
+After registering the program, I travelled to Timișoara at Samy's invitation. I arrived in a city I did not know and called him. We met in the central area. He was accompanied by two or three Romanians. 
+
+The way they behaved towards me seemed unusual; I had the impression that they regarded me with a level of respect I was not accustomed to receiving. Samy had probably introduced me as the programmer who had created the product from which the business was supposed to emerge.
+
+I now remember that, shortly afterwards, he asked whether I had brought the version of the program without the trial limitation on a floppy disk. I told him that I had forgotten the disk, although in reality there had never been any question of bringing such a disk in the first place. In reality, I had come prepared for the possibility that something might go wrong: I was carrying a paralysing spray and a knife. He muttered something under his breath, clearly displeased, but we continued.
 
 He accommodated me at his home. It was a modest and crowded house. Several women in the family wore hijabs. I ate seasoned liver there, prepared in a style different from the food to which I was accustomed. I remember that the food was very spicy, but good.
 
