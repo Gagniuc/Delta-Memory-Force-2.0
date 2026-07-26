@@ -337,7 +337,7 @@ Beyond these domestic details, the discussion about the business became increasi
 
 Then the element that completely changed the situation appeared.
 
-Samy told me that he dealt with “cards”. Initially, the wording might simply have meant payment processing. From the explanations that followed, however, I understood that he was talking about card data obtained illegally. He told me that he received complete card information from Romanian hackers and used various methods to withdraw money from them.
+Samy told me that he dealt with “cards”. Initially, the wording might simply have meant payment processing (something I had already known about since September 11, 2001, through my remote administration software). From the explanations that followed, however, I understood that he was talking about card data obtained illegally. He told me that he received complete card information from Romanian hackers and used various methods to withdraw money from them.
 
 From what he explained to me at the time, one option would have been for Delta Memory Force to be used as a commercial justification for transactions: the program would appear as a product purchased online, the money would enter the financial circuit he controlled, and the software purchase would provide the appearance of a legitimate operation.
 
