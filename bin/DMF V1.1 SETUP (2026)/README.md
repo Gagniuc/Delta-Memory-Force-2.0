@@ -40,7 +40,7 @@ The installer will start normally.
 
 ## About Delta Memory Force 1.1
 
-Delta Memory Force 1.1 is a 2026 update of the very first release of the application, originally built on 5 March 2002, adapted to run on Windows 11. The adaptation of the historical codebase was completed with the assistance of artificial intelligence, while preserving the original visual identity, operating principles, monitoring functions, and resource-management architecture of the application.
+Delta Memory Force 1.1 is a 2026 update of the very first release of the application, originally built in 1999, adapted to run on Windows 11. The adaptation of the historical codebase was completed with the assistance of artificial intelligence, while preserving the original visual identity, operating principles, monitoring functions, and resource-management architecture of the application.
 
 This original 2002 release was written for the Windows versions of that era (95/98/ME and early NT-based systems) and relied on mechanisms - such as reading CPU usage from the `HKEY_DYN_DATA` registry hive - that no longer exist on any NT-based Windows. Version 1.1 replaces those mechanisms with their modern equivalents (`GetSystemTimes`, `GlobalMemoryStatusEx`, and a corrected chart-rendering routine) so the application runs correctly on Windows 11, without altering how it looks or behaves.
 
