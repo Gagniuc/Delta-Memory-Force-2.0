@@ -224,6 +224,16 @@ The atmosphere changed instantly. People were no longer paying attention to the 
 
 Amid that commotion, I noticed a single man who did not seem interested in the television. He was focused on the computer, withdrawn and tense. He seemed suspicious to me. It must be stated clearly that this was my perception at the time, during a moment of collective shock and a period in which information was incomplete. The fact that the man was of Arab origin and was not watching the television was not, in itself, any evidence of a connection to the attacks. Nevertheless, I was very young, and the coincidence caught my attention.
 
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/locatie.png" alt="Mental gymnastics - remembering Hotel Moldova details from ~ 30 years ago">
+</p>
+
+<hr>
+
+
 I began speaking with him, initially precisely to understand who he was and what he was doing. To open the conversation, I told him about Delta Memory Force. The man introduced himself as **Samy**; from correspondence preserved later, his name appears to have been **Samy Salha**.
 
 He told me that his family had been settled in Timișoara for some time and that he might be able to help me sell the program. His idea was to handle the commercial side: the domain, website, advertising, payments, and the relationship with the card-processing service. I was to remain the author of the program and provide the technical side.
