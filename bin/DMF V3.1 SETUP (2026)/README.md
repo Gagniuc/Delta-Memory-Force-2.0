@@ -2,6 +2,10 @@
 
 This version is released without a trial limitation and is fully functional from the first launch.
 
+<p align="center">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/bin/DMF%20V3.1%20SETUP%20(2026)/img/dmf.png" alt="Microsoft Defender SmartScreen More info button" width="534">
+</p>
+
 ## Why Windows displays this warning
 
 `DMF 3.1 Setup.exe` is distributed without a commercial digital signature. Because the installer is unsigned and has not yet built a Microsoft SmartScreen reputation, Windows may identify the publisher as **Unknown publisher** and temporarily block the application.
