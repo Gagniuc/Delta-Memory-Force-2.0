@@ -240,6 +240,37 @@ He told me that his family had been settled in Timișoara for some time and that
 
 To me, the proposal seemed like an extraordinary opportunity. I was a young programmer from Bacău, working alone, without permanent Internet access, and I knew almost nothing about international commercial infrastructure. He seemed to have access to domains, servers, online payments, and contacts. At that moment, the gap between writing a program and selling it worldwide seemed enormous. Samy claimed that he could bridge precisely that gap.
 
+
+## A Hacker’s Life in the Late 1990s
+
+I had just finished high school and, without fully understanding what I was at the time, I was probably living what today would be called a hacker’s life. In Bacău, there were a few places between which I moved almost every day: the Luceafărul Cinema, if I remember the name correctly, the second-hand bookshop where I searched for technical books, many of them published by the very university where I would later become a faculty member, and the Internet Café inside the hotel.
+
+The Internet Café had become my unofficial laboratory. I brought the programs I had written at home on 1.44 MB floppy disks. I was creating viruses in assembly language, network worms, Trojans, and other experiments that today we would describe without hesitation as malware. I had also begun developing a highly sophisticated remote administration tool, which I intended to turn into a commercial product and sell.
+
+The most difficult problem was not always writing the code, but compatibility. A program could work perfectly on my computer at home and crash immediately on another machine running Windows 98 or Windows Me. Systems were configured differently, libraries were not always the same, and hardware and software components could produce completely unexpected results.
+
+That was why I went to the Internet Café almost every day. I tested the programs on different configurations and observed infection behaviour on a large scale, both across the local network and over the Internet. I wanted to see how many computers each program could infect, how quickly it could spread, and how strongly the success of the infection depended on the strategy used by the virus, worm, or Trojan.
+
+I was not merely checking whether the program started. I wanted to know whether it remained stable, whether it could run on other Windows versions and configurations, whether it was detected, whether it could conceal itself, and whether it could continue operating without crashing. For me, the real test began only when the code left the computer on which it had been written.
+
+Some of those projects remained unfinished. Others I completely forgot about after leaving for university in Bucharest. Perhaps I also created applications that later became well known. Perhaps not. There are things about that period that I still prefer not to reveal, although after 26 or 27 years the offences would probably be time-barred in Romania. I do not, however, know the laws and limitation periods in every country.
+
+The administrator of the Internet Café, whom I believe was called Andrei, was a short blond guy, very friendly and quite cool. He allowed us to work without constantly standing behind us and gave us privacy. In any case, I knew the Windows processes almost by heart, as well as the open TCP/IP and UDP ports, and I would have noticed immediately if anyone had tried to monitor me.
+
+Back then, the operating system was not “alive” in the way it is today. Any unusual activity became visible almost immediately through the hard-drive LED. If it started blinking for no apparent reason, it was a warning sign: something had just launched, something was reading data from the disk without your knowledge, or, quite simply, something was happening that needed to be investigated.
+
+I also had a program for monitoring network traffic. Under normal circumstances, there should have been almost no outgoing traffic without a clear explanation. If the program started to “growl”, it meant there was a serious problem. Today, operating systems and applications communicate constantly in the background, making this kind of intuitive observation much more difficult. Back then, you could almost immediately sense when the computer was doing something without your permission.
+
+In any case, the irony was that I was the one seeing more than I should have. I had installed my remote administration tool on some of the computers, hidden in such a way that it appeared to be an ordinary system process. It was also the first time I had forced myself to invent my own multimedia solutions. To display the remote screen, I did not transmit each JPEG image in full, but only the regions that changed from one frame to the next. This reduced network traffic considerably and allowed the image to be followed almost in real time, even over the slow connections of that period. The administrator never realised that the program existed. Through it, I could see the screen in real time and observe what was happening on the computer without the person sitting in front of it knowing.
+
+That was how I first noticed Samy, before meeting him in person. I remember seeing him taking card details from a text file and testing them on shopping websites. I did not know where those details came from or the full extent of what he was doing. Perhaps they were his own cards :D. It was not my concern and I did not intervene, but the image stayed with me.
+
+I saw him in person for the first time on 11 September 2001. After having already observed his activity on the computer, I met him on the very same day that the attacks in the United States were unfolding on television. From that moment, what I had previously seen became connected in my mind with his behaviour, the circumstances in which he had appeared, and the information I would later learn.
+
+A disturbing possibility occurred to me: what if his activity was not merely an ordinary form of fraud? What if the money obtained was reaching, directly or indirectly, a group connected in some way to what was happening on television during those very hours? I had no evidence and could not prove such a connection. It was only a suspicion built from fragments, observations, and coincidences. Perhaps I was reading too much into it. Perhaps not. But my suspicion had not come from nowhere.
+
+
+
 ## Ramforces.com and the Promise of a Global Business
 
 We began discussing the commercialisation of the program through the domain <a href="https://web.archive.org/web/20020000000000*/Ramforces.com">**ramforces.com**</a>. The model was intended to resemble what we would now call shareware distribution with individual activation. The program generated a unique code for each computer. Based on that code, a registration key had to be produced. I had separately created a program for generating or decoding the keys and did not intend to hand it over. From my point of view, this was the business's safety mechanism: Samy could promote and sell the product, but the final key had to come from me for each customer.
