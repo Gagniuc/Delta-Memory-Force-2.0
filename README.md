@@ -57,9 +57,13 @@ The program also allows:
 
 The application also included integration with the Windows notification area, known as the System Tray. The icon displayed numerically, in real time, the amount of free RAM, allowing the system to be monitored without opening the main window. The Free RAM, Show, Hide, Options, and Exit functions could also be accessed quickly from there. For the early 2000s, this compact and dynamic representation had a modern graphical appearance.
 
+<div align="center">
+
 | Windows 11 | Windows Me |
 |----------|----------|
 |![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_sys.jpg)|![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/bara.png)|
+
+</div>
 
 ## Configuration Options
 
@@ -191,24 +195,35 @@ In the late 1990s, the software world looked completely different from today. Th
 
 In 1999, I was living in Bacău, Romania, and working on a modest Pentium computer at home. I did not have a permanent Internet connection. When I needed to search for information, send an e-mail, or download a file, I went to an Internet café. Access was paid by the hour. You had to wait for a computer to become available, prepare your questions and files in advance, and use the purchased time as efficiently as possible.
 
+<div align="center">
+  
 | RAM & CPU | RAM Limits |
 |:---:|:---:|
 | <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/dmf.png" width="100%"> | <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/limite.png" width="100%"> |
+
+</div>
 
 In that context, I began developing **Delta Memory Force**, a Windows utility intended for monitoring and managing system resources. The first versions appeared during the period 1999–2001, and the project continued to be modified and improved afterwards.
 
 Viewed today, the program clearly belongs to the era of Windows 95, Windows 98, Windows Millennium, Windows NT 4.0, and Windows 2000. The interface is crowded, technical, strongly coloured in green, red, and yellow, with graphs drawn in real time and a visual style inspired by “system” programs, electronic panels, and the computing aesthetics of the beginning of the millennium. At the time, however, it was precisely this appearance that gave it personality.
 
-
+<div align="center">
+  
 | Process Priority |
 |:---:|
 | <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/sterge_1.png" width="100%"> |
 
+</div>
+
 Delta Memory Force displayed free and total RAM, processor load, the list of active processes, the priority of the selected process, the number of threads, and information about storage space. The program could free memory, modify the priority of a process, terminate processes, and, in certain situations, attempt to remove the associated executable file. It included CPU and memory graphs and could run continuously, in real time.
+
+<div align="center">
 
 | Process Termination |
 |:---:|
 | <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/sterge_1.png" width="100%"> |
+
+</div>
 
 For a program created at home by a young programmer without permanent Internet access and without a company's infrastructure, the project was ambitious. It was not merely a school exercise or a simple mock-up. It was a functional product, with installation, an interface, a trial system, a registration mechanism, and a genuine attempt at commercialisation.
 
@@ -270,7 +285,6 @@ That was how I first noticed Samy, before meeting him in person. I remember seei
 I saw him in person for the first time on 11 September 2001. After having already observed his activity on the computer, I met him on the very same day that the attacks in the United States were unfolding on television. From that moment, what I had previously seen became connected in my mind with his behaviour, the circumstances in which he had appeared, and the information I would later learn.
 
 A disturbing possibility occurred to me: what if his activity was not merely an ordinary form of fraud? What if the money obtained was reaching, directly or indirectly, a group connected in some way to what was happening on television during those very hours? I had no evidence and could not prove such a connection. It was only a suspicion built from fragments, observations, and coincidences. Perhaps I was reading too much into it. Perhaps not. But my suspicion had not come from nowhere.
-
 
 
 ## Ramforces.com and the Promise of a Global Business
@@ -408,7 +422,8 @@ This repository should be viewed as a time capsule. It contains a program built 
 
 Delta Memory Force is the product of that world. I now offer it free of charge, with its strengths and weaknesses, with the visual style of the era, its technical limitations, its naïve ideas, and the enormous ambition that drove me to build it. After more than twenty years, the program is no longer merely an executable. It is a story about programming, the Internet, intellectual property, trust, risk, and the beginnings of a life dedicated to software.
 
-— **Paul Aurelian Gagniuc**
+- **Paul Aurelian Gagniuc**
+
 ![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/old_days_(II).png)
 
 
