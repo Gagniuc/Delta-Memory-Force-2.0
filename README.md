@@ -1,4 +1,4 @@
-# Delta Memory Force 2.0 (1999 - 2004)
+# Delta Memory Force 2.0 (1999-2004)
 
 <img
   align="right"
