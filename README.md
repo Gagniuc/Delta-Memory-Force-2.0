@@ -7,7 +7,7 @@
 
 **Delta Memory Force 2.0** is a Windows application for monitoring and managing system resources, developed during the period **1999-2001**. The last version was compiled around **2004**. The project is currently published for historical, educational, and archival purposes, as an example of a system application developed for the Windows generations of the late 1990s and early 2000s.
 
-The first publicly distributed version, Delta Memory Force 1.0, appeared in the early 2000s on the international compilation <a href="https://archive.org/details/onyxdvd-11">Onyx DVD #11</a>, under the name “Delta Memory Force 1.0 (c) RamForces”. This inclusion represents the earliest documented public appearance of the application identified to date. The application was also distributed on the CD accompanying the November 2004 issue of PC World.
+The first publicly distributed version, Delta Memory Force 1.0, appeared in the early 2000s on the international compilation <a href="https://archive.org/details/onyxdvd-11">Onyx DVD #11</a>, under the name “Delta Memory Force 1.0 (c) RamForces”. This inclusion represents the earliest documented public appearance of the application identified to date. The application was also distributed on the CD accompanying the November 2004 issue of PC World Romania, which appears to have been its last known large-scale distribution.
 
 The program displays in real time the free and total RAM, processor usage, CPU and memory activity graphs, the list of active processes, the priority and number of threads of the selected process, as well as the capacity and free space of the storage drives.
 
