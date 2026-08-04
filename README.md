@@ -9,7 +9,7 @@
 
 The first publicly distributed version, Delta Memory Force 1.0 (c) RamForces, appeared in the early 2000s on the international compilation <a href="https://archive.org/details/onyxdvd-11">Onyx DVD #11</a>, under the name “Delta Memory Force 1.0 (c) RamForces”. This inclusion represents the earliest documented public appearance of the application identified to date. 
 
-The application was also distributed on the CD accompanying the <a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/pc_world.png">November 2004</a> issue of PC World Romania, which appears to have been its last known large-scale distribution.
+The application was also distributed on the CD accompanying the main <a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/pc_world.png">November 2004</a> issue of PC World Romania, which appears to have been its last known large-scale distribution.
 
 The program displays in real time the free and total RAM, processor usage, CPU and memory activity graphs, the list of active processes, the priority and number of threads of the selected process, as well as the capacity and free space of the storage drives. The application allows RAM to be freed, process priorities to be changed, processes to be terminated, and advanced management functions to be accessed. The graphical interface, characteristic of the early 2000s, uses a distinctive technical style, with a black background, green graphs, and coloured indicators updated in real time.
 
